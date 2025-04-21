@@ -10,10 +10,7 @@ public class EventManager {
     public void addEvent(Event event) {
         events.add(event);
     }
-    //remove event method
-    public void removeEvent(Event event) {
-        events.remove(event);
-    }
+
     // list to get events for a specific date
     public List<Event> getEvents(LocalDate date) {
         List<Event> filteredEvents = new ArrayList<>();
