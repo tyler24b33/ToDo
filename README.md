@@ -10,3 +10,16 @@
 
 ![image](https://github.com/user-attachments/assets/61e900ba-8a34-4228-aace-3d6b84441568)
 #
+The project has 6 main classes
+
+To Do Class
+
+ThreeDay view Class
+
+CalendarView class
+
+EventManager class
+
+Event class
+
+FormGUI class
