@@ -53,3 +53,5 @@ TO use using netbeans
 3.) then click add jar file and go to the directory where you unzipped the folder go into the sdk file then go into the library folder
 4.) select all the .jar files and click add and added it the the library class path. then click ok.
 
+# How to use The program view the pdf Guide in the repo files or watch the following youtube video
+https://youtu.be/dpP6neThFC0 
