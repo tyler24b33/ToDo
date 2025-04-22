@@ -34,16 +34,22 @@ Reminder class
 has reminder method for futer implemtation
 
 # USER GUIDE
+
+How to run Application
+
+*NOTE
 TO use the application you need to have jdk verions 23+ 
 and javafx sdk verion 24.0.1+ if ide doesn't add it autimatically
 
 To Use Using Intelij IDE 
-make sure jd verison 23 is selected
-make sure git plugin is intstalled 
-the using git clone the application
-then select main class ToDoApp and then click run button in top right
+1.) make sure jdk verison 23 is selected
+2.) make sure git plugin is intstalled 
+3.) the using git clone the application by adding the url and selct clone
+4.) then select main class ToDoApp and then click run button in top right
 
 TO use using netbeans
-download javafx sdk 24.0.1+ and add it to the libraries
-then run this command
+1.)download javafx sdk 24.0.1+ and unzip it
+2.) then in netbeans go to tolls then library the click new library button and name it like javafx or similar and select that library
+3.) then click add jar file and go to the directory where you unzipped the folder go into the sdk file then go into the library folder
+4.) select all the .jar files and click add and added it the the library class path. then click ok.
 
