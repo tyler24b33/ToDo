@@ -54,4 +54,7 @@ TO use using netbeans
 4.) select all the .jar files and click add and added it the the library class path. then click ok.
 
 # How to use The program view the pdf Guide in the repo files or watch the following youtube video
+PDF
+https://github.com/tyler24b33/ToDo/blob/master/text%20based%20User%20Guide%20PDF%20version.pdf
+Youtube Video
 https://youtu.be/dpP6neThFC0 
