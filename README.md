@@ -43,8 +43,8 @@ and javafx sdk verion 24.0.1+ if ide doesn't add it autimatically
 
 To Use Using Intelij IDE 
 1.) make sure jdk verison 23 is selected
-2.) make sure git plugin is intstalled 
-3.) the using git clone the application by adding the url and selct clone
+2.) go to code button on this repo and copy the https link for cloning
+3.) the using git menu in intellaj select clone then paste the url in the url textbox and selct clone
 4.) then select main class ToDoApp and then click run button in top right
 
 TO use using netbeans
