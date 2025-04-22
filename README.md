@@ -31,6 +31,19 @@ Event class
 the event class stores the event details that were entered into the addtask form gui popup and saved.
 
 Reminder class
-hs reminder method for futer implemtation
+has reminder method for futer implemtation
 
-#User GUIDE
+# USER GUIDE
+TO use the application you need to have jdk verions 23+ 
+and javafx sdk verion 24.0.1+ if ide doesn't add it autimatically
+
+To Use Using Intelij IDE 
+make sure jd verison 23 is selected
+make sure git plugin is intstalled 
+the using git clone the application
+then select main class ToDoApp and then click run button in top right
+
+TO use using netbeans
+download javafx sdk 24.0.1+ and add it to the libraries
+then run this command
+
